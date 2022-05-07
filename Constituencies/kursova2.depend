@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1637244415 source:d:\kursova2\main.cpp
+	"ConstituencyManager.h"
+
+1637243416 source:d:\kursova2\src\constituency.cpp
+	"Constituency.h"
+
+1637239569 d:\kursova2\include\constituency.h
+	<vector>
+	<string>
+	<iostream>
+
+1637243197 source:d:\kursova2\src\constituencymanager.cpp
+	"ConstituencyManager.h"
+	<fstream>
+	<algorithm>
+
+1637240672 d:\kursova2\include\constituencymanager.h
+	"Constituency.h"
+
